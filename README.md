@@ -1,2 +1,2 @@
-# Prediction-for-NBA-players-P
+# Prediction-for-NBA-players
 Week 1
